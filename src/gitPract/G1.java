@@ -5,6 +5,7 @@ public class G1 {
 		System.out.println("Updated G1 Class");
 		  String d = "msd";
 		  String c = "Dinfdhgsesh";
+		  int runs = 3000;
 	}
 }
 
