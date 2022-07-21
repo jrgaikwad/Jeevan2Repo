@@ -6,6 +6,7 @@ public class G1 {
 		  String d = "dhoni";
 		  String c = "Dinfdhgsesh";
 		  int runs = 3000;
+		  int wkt = 51;
 	}
 }
 
