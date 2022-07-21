@@ -5,5 +5,6 @@ public class G1 {
 		 System.out.println("Assert 5 Started");
 		  String d = "Dinesh";
 		  String c = "Dinfdhgsesh";
+		  String city ="Pune";
 	}
 }
