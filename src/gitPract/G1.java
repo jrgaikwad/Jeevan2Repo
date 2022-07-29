@@ -7,6 +7,8 @@ public class G1 {
 		  String c = "Dinfdhgsesh";
 		  int runs = 3000;
 		  int wkt = 51;
+		  String str ="Added 1 gy G1";
+
 	}
 }
 
